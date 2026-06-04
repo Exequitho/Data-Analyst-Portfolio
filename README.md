@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="https://nurulfikri.ac.id/wp-content/uploads/2022/06/cropped-Main-Logo-STTNF.png" alt="TechSphere Logo" width="300" />
+  <img src="https://nurulfikri.ac.id/wp-content/uploads/2022/06/cropped-Main-Logo-STTNF.png" alt="TechSphere Logo" width="250" />
   
-  <br /><br />
+  <br />
 
   <h1>Ecommerce Performance Report</h1>
 </div>
-
-<br />
 
 <table>
   <tr>

@@ -1,7 +1,5 @@
-<h1 align="center">Muhammad Fatih - Portfolio</h1>
-
 <div align="center">
-  <img src="https://nurulfikri.ac.id/wp-content/uploads/2022/06/cropped-Main-Logo-STTNF.png" alt="TechSphere Logo" width="100" />
+  <img src="https://nurulfikri.ac.id/wp-content/uploads/2022/06/cropped-Main-Logo-STTNF.png" alt="TechSphere Logo" width="300" />
   
   <br /><br />
 

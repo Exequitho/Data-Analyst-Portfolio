@@ -1,26 +1,83 @@
 <div align="center">
-  <img src="https://nurulfikri.ac.id/wp-content/uploads/2022/06/cropped-Main-Logo-STTNF.png" alt="TechSphere Logo" width="225" />
-  
+  <h1>Hi, I'm Muhammad Fatih 📊</h1>
+  <h3>Data Analyst | AI Data Evaluation Specialist</h3>
+  <p><i>Specializing in data quality assurance, rule-based logic, and translating messy datasets into actionable business interventions.</i></p>
 
-  <h1>Ecommerce Performance Report</h1>
+  <div align="center">
+    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" /></a>
+  </div>
 </div>
+
+<br />
+
+### 👨‍💻 About Me
+I am a detail-oriented Data Analyst focused on discovering hidden anomalies, solving complex business problems, and ensuring high-fidelity data pipelines. I build reproducible ETL workflows and design intuitive dashboards that empower stakeholders to make proactive decisions. 
+
+**Current Focus Areas:** * **Data Quality & Edge-Case Detection:** Identifying nulls, anomalies, and fragmented data in source systems.
+* **AI Training & Human-in-the-Loop Data:** Ensuring high-quality data curation, logical evaluations, and strict adherence to guidelines for complex data annotation and RLHF (Reinforcement Learning from Human Feedback) pipelines.
+* **Predictive Modeling & BI:** Leveraging statistical logic to forecast trends and visualize business impact.
+
+---
+
+### 🛠️ Technical Arsenal
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/SQL_&_PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+</div>
+
+<br />
+
+---
+
+### 📂 Featured Data Analytics Projects
+
+Below are my flagship projects. Click on any project title to view the full documentation, ETL scripts, and live interactive dashboards.
 
 <table>
   <tr>
-    <td>
+    <td width="50%" valign="top">
       <div align="center">
-        <h2>Client Background</h2>
+        <a href="./Projects/EWS_Dashboard">
+          <img src="https://via.placeholder.com/400x200.png?text=Academic+EWS+Dashboard" alt="EWS Dashboard" width="100%" />
+        </a>
+        <br /><br />
+        <h3><a href="./Projects/EWS_Dashboard">🎓 Academic Early Warning System</a></h3>
       </div>
-      <p><b>TechSphere</b> is a US-based e-commerce company that sells popular consumer electronics and accessories to a global clientele. Established in 2018, the company has grown and expanded in the last few years, it has encountered increasing competition from peer companies as well as unique challenges and opportunities brought on by the COVID-19 pandemic.</p>
-      <p><b>TechSphere's</b> book of business is approaching <b>88,000</b> customers and possesses over <b>108,000</b> transactions, generating sales revenue exceeding <b>$28 million</b>. The available eCommerce data spans various dimensions and metrics, including sales, products, sales by regions, and the company's loyalty program.</p>
-      <p>Reporting to the Head of Operations, an in-depth analysis was conducted to evaluate <b>TechSphere's</b> performance over the past several years (2019–2022). This comprehensive review provides valuable insights that internal cross-functional teams will utilize to streamline processes and enhance <b>TechSphere's</b> commercial performance. The key insights and recommendations focus on the following areas:</p>
-      <h3>Northstar Metrics</h3>
-      <ul>
-        <li><b>Sales trends</b> - Focusing on key metrics of sales revenue, number of orders placed, and average order value (AOV).</li>
-        <li><b>Product performance</b> - Analyzing different product lines, market impact, and refund rates to inform strategic product decisions.</li>
-        <li><b>Loyalty program evaluation</b> - Evaluating the effectiveness of the company's loyalty program and providing recommendations to maximize customer engagement and retention.</li>
-        <li><b>Regional results</b> - Evaluating regional demand and product performance within regions to identify areas for improvement.</li>
-      </ul>
+      <p><b>Domain:</b> Education Tech / Data Quality</p>
+      <p><b>Tech Stack:</b> Python, Pandas, Looker Studio</p>
+      <p>Engineered an automated rule-based monitoring pipeline to flag at-risk students. Conducted rigorous QA testing to identify and isolate critical missing data (null values) from the source system, enabling proactive stakeholder interventions.</p>
+      <div align="center">
+        <a href="./Projects/EWS_Dashboard"><b>Read Full Case Study ➔</b></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="./Projects/Alfagreen">
+          <img src="https://via.placeholder.com/400x200.png?text=Alfagreen+Waste+Analytics" alt="Alfagreen Dashboard" width="100%" />
+        </a>
+        <br /><br />
+        <h3><a href="./Projects/Alfagreen">🌱 ALFAGREEN Predictive Analytics</a></h3>
+      </div>
+      <p><b>Domain:</b> E-Commerce / Sustainability</p>
+      <p><b>Tech Stack:</b> Python, Scikit-Learn, SQL</p>
+      <p>Developed the data architecture for a digital waste bank feature. Built a Linear Regression model to forecast inorganic waste scaling across Indonesia, advising cross-functional PM and UI/UX teams on a targeted geographic rollout strategy.</p>
+      <div align="center">
+        <a href="./Projects/Alfagreen"><b>Read Full Case Study ➔</b></a>
+      </div>
     </td>
   </tr>
 </table>
+
+<br />
+
+---
+
+<div align="center">
+  <p><i>"Translating complex data into clear, actionable strategies."</i></p>
+</div>

@@ -43,32 +43,32 @@ Below are my flagship projects. Click on any project title to view the full docu
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <a href="./Projects/EWS_Dashboard">
+        <a href="Projects/EWS-Academic-Dashboard-Bachelor-Final-Project">
           <img src="https://via.placeholder.com/400x200.png?text=Academic+EWS+Dashboard" alt="EWS Dashboard" width="100%" />
         </a>
         <br /><br />
-        <h3><a href="./Projects/EWS_Dashboard">🎓 Academic Early Warning System</a></h3>
+        <h3><a href="Projects/EWS-Academic-Dashboard-Bachelor-Final-Project">🎓 Academic Early Warning System</a></h3>
       </div>
       <p><b>Domain:</b> Education Tech / Data Quality</p>
       <p><b>Tech Stack:</b> Python, Pandas, Looker Studio</p>
       <p>Engineered an automated rule-based monitoring pipeline to flag at-risk students. Conducted rigorous QA testing to identify and isolate critical missing data (null values) from the source system, enabling proactive stakeholder interventions.</p>
       <div align="center">
-        <a href="./Projects/EWS_Dashboard"><b>Read Full Case Study ➔</b></a>
+        <a href="Projects/EWS-Academic-Dashboard-Bachelor-Final-Project"><b>Read Full Case Study ➔</b></a>
       </div>
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <a href="./Projects/Alfagreen">
+        <a href="Projects/Alfagreen-Dashboard">
           <img src="https://via.placeholder.com/400x200.png?text=Alfagreen+Waste+Analytics" alt="Alfagreen Dashboard" width="100%" />
         </a>
         <br /><br />
-        <h3><a href="./Projects/Alfagreen">🌱 ALFAGREEN Predictive Analytics</a></h3>
+        <h3><a href="Projects/Alfagreen-Dashboard">🌱 ALFAGREEN Predictive Analytics</a></h3>
       </div>
       <p><b>Domain:</b> E-Commerce / Sustainability</p>
       <p><b>Tech Stack:</b> Python, Scikit-Learn, SQL</p>
       <p>Developed the data architecture for a digital waste bank feature. Built a Linear Regression model to forecast inorganic waste scaling across Indonesia, advising cross-functional PM and UI/UX teams on a targeted geographic rollout strategy.</p>
       <div align="center">
-        <a href="./Projects/Alfagreen"><b>Read Full Case Study ➔</b></a>
+        <a href="Projects/Alfagreen-Dashboard"><b>Read Full Case Study ➔</b></a>
       </div>
     </td>
   </tr>

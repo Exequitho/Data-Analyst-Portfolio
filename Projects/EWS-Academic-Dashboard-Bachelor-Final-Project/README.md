@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Data_Engineering-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Data Engineering" />
 
   <br /><br />
-  <img src="img/TA - Dashboard.png" alt="Dashboard View" width="600px" />
+  <img src="Images/TA - Dashboard.png" alt="Dashboard View" width="600px" />
 </div>
 
 <br />
@@ -45,7 +45,7 @@
     <td valign="top" width="50%">
       <div align="center">
         <h3>1. Average Semester GPA (IPS) Trend</h3>
-        <img src="img/TA - Line Chart.png" alt="Line Chart IPS" width="400px" />
+        <img src="Images/TA - Line Chart.png" alt="Line Chart IPS" width="400px" />
       </div>
       <br />
       <ul>
@@ -56,7 +56,7 @@
     <td valign="top" width="50%">
       <div align="center">
         <h3>2. Graduation Risk Distribution</h3>
-        <img src="img/TA - Bar Chart Angkatan.png" alt="Bar Chart Risk" width="300px" />
+        <img src="Images/TA - Bar Chart Angkatan.png" alt="Bar Chart Risk" width="300px" />
       </div>
       <br />
       <ul>

@@ -9,6 +9,8 @@
 
   <br /><br />
   <img src="Images/TA - Dashboard.png" alt="Dashboard View" width="600px" />
+    <br />
+<a href="https://datastudio.google.com/reporting/bb902ce9-f254-490d-ba08-8cd0efc5b2a9"><b>Access Dashboard ➔</b></a>
 </div>
 
 <br />

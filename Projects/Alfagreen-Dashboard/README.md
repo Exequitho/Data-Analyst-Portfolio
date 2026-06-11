@@ -9,8 +9,9 @@
 
   <br /><br />
   <img src="Images/Dashboard Full.jpg" alt="Alfagreen Dashboard View" width="500px" />
+  <br />
+<a href="https://datastudio.google.com/reporting/0e707dd3-c203-4d99-a01a-a984b1815d8b"><b>Access Dashboard ➔</b></a>
 </div>
-
 <br />
 
 <table>

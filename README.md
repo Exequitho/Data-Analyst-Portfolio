@@ -44,7 +44,7 @@ Below are my flagship projects. Click on any project title to view the full docu
     <td width="50%" valign="top">
       <div align="center">
         <a href="Projects/EWS-Academic-Dashboard-Bachelor-Final-Project">
-          <img src="https://via.placeholder.com/400x200.png?text=Academic+EWS+Dashboard" alt="EWS Dashboard" width="100%" />
+          <img src="Projects/EWS-Academic-Dashboard-Bachelor-Final-Project/Images/TA - Dashboard.png" alt="EWS Dashboard" width="100%" />
         </a>
         <br /><br />
         <h3><a href="Projects/EWS-Academic-Dashboard-Bachelor-Final-Project">🎓 Academic Early Warning System</a></h3>

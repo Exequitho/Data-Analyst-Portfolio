@@ -59,7 +59,7 @@ Below are my flagship projects. Click on any project title to view the full docu
     <td width="50%" valign="top">
       <div align="center">
         <a href="Projects/Alfagreen-Dashboard">
-          <img src="https://via.placeholder.com/400x200.png?text=Alfagreen+Waste+Analytics" alt="Alfagreen Dashboard" width="100%" />
+          <img src="Projects/Alfagreen-Dashboard/Images/Dashboard.png" alt="Alfagreen Dashboard" width="100%" />
         </a>
         <br /><br />
         <h3><a href="Projects/Alfagreen-Dashboard">🌱 ALFAGREEN Predictive Analytics</a></h3>
